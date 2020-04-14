@@ -18,7 +18,14 @@ body{
     color:white;
     letter-spacing: 5px;
 }
+#wrong_letters{
+    color:white;
+}
 
 div{
     margin:20px
+}
+
+.the_man{
+    display:none
 }
